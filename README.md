@@ -8,6 +8,7 @@ In this project, I created a bike trip analysis to convince investors that a bik
 - Show the number of bike trips for all riders and genders for each hour of each day of the week
 - Show the number of bike trips for each type of user and gender for each day of the week.
 
+The analysis for this project has been published to Tableau Public (https://public.tableau.com/profile/bradley.cao#!/vizhome/CitiBikeSharing/CitiBikeSharing?publish=yes) 
 ## Results:
 
 - Customer Types: from the pie chart, we can see that most of the users, 81% (1,900,359 users) of them, are the app's subscribers.
